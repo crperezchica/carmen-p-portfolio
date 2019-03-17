@@ -1,5 +1,5 @@
 .nav {
-  color: black;
+  color: whitesmoke;
   ul {
     display: flex;
     justify-content: space-around;
@@ -17,7 +17,7 @@
     text-transform: uppercase;
     transition: 0.5s;
     background-size: 200% auto;
-    color: black;
+    color: whitesmoke ;
     box-shadow: 0 0 20px black;
     border-radius: 10px;
 
